@@ -1,0 +1,1 @@
+Skin Cancer Classification is a machine learning / deep learning task where a model analyzes skin images and predicts whether the lesion is benign (non-cancerous) or malignant (cancerous). It is widely used in medical image analysis to help doctors detect cancer early. 🧬🔬
